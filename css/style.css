@@ -106,8 +106,7 @@ main {
 }
 
 #hero {
-    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('C:/Users/DELL/Desktop/pharma/images/pharmacy-bg.jpg'
-);
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('/images/pharmacy-bg.jpg');
     background-size: cover;
     background-position: center;
     height: 600px;
